@@ -1,0 +1,6 @@
+Kredo;Privat;Alfa;Mono;Osсhad
+Number:0.25;8;10;6;9;7
+Reliability:0.15;6;8;7;10;8
+Service:0.25;9;10;6;9;8
+Credit:0.2;9;10;7;9;8
+Deposit:0.15;8;10;6;9;8
